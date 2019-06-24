@@ -145,6 +145,7 @@ nav{
 }
 
 .ourmission{
+  height: 250px;
   margin-top: 20px;
 }
 
@@ -168,4 +169,61 @@ nav{
   position: fixed;
   background-color: rgba(0, 0, 0, 1);
   z-index: 1020;
+}
+
+#pixel-to-watch {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  /* top: 100px; */
+  left: 0;
+  }
+
+  .minimize-nav{
+    height: 7vh;
+  }
+
+.samplepics .card img{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  transition-timing-function: ease-in;
+  transition-duration: 2s;
+}
+.samplepics .card h4{
+  transition-timing-function: ease-in;
+  transition-duration: 2s;
+}
+
+.samplepics .card h4{
+  /* display: none; */
+  visibility: hidden;
+  filter: blur(8px);
+  /* width: 100%; */
+  /* height: 50px; */
+}
+
+.samplepics .card:hover h4{
+  visibility: visible;
+}
+
+.samplepics .card:hover img{
+  filter: blur(8px);
+}
+.samplepics .card:hover h4{
+  filter: blur(0px);
+}
+
+.samplepics .card i{
+  /* display: none; */
+  visibility: hidden;
+  filter: blur(8px);
+  /* width: 100%; */
+  /* height: 50px; */
+}
+
+.samplepics .card:hover i{
+visibility: visible;
+}
+
+.samplepics .card-img-overlay{
+  /* flex: wrap; */
 }
