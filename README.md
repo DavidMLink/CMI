@@ -4,7 +4,7 @@
 
 ### Original Website Link: http://www.cmimoulding.com/
 
-### Used dummy images and Lorem Ipsum text. I was on a tight deadline however satisfied with what I created in a couple of hours. :)
+### Used dummy images and Lorem Ipsum text. I was on a tight deadline however I was satisfied with what I created in a couple of hours. :)
 
 ### Hovered over images would play linked Youtube videos...
 
