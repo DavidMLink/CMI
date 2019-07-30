@@ -10,6 +10,6 @@
 
 ### Technologies:
 
-##### Just some raw html, css, js, and some bootstrap.
+##### Just raw html, css, js, and some bootstrap.
 
 ![](CMIgif.gif)
