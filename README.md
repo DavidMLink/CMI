@@ -1,15 +1,15 @@
-# CMI FRONTEND
+# CMI FRONTEND LANDING PAGE MOCKUP
 
-## Quick Sunday overnight project for my employer to see if he wanted to update his website.
+## Quick Sunday overnight mockup I created for the CEO to see if he wanted to update his website to a fresher and more modern look.
 
 ### Original Website Link: http://www.cmimoulding.com/
 
-### Used dummy images and Lorem Ipsum text. I was on a tight deadline however I was satisfied with what I created in a couple of hours. :)
+### Used dummy images and Lorem Ipsum text. Created in a couple hours the night before.
 
 ### Hovered over images would play linked Youtube videos...
 
 ### Technologies:
 
-##### Just raw html, css, js, and some bootstrap.
+##### No wordpress or any CMS. Used raw html, css, js, fontawesome and bootstrap.
 
 ![](CMIgif.gif)
